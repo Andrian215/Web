@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="practice">
+    <meta name="keywords" content="list,definition,abbreviation">
+    <meta name="author" content="Andrian Shyndra"> 
+    <title>Task 3</title>
+    <style>
+        hr {
+            background-color: rgb(66, 56, 56);
+            height:5px;
+        }
+        body {
+            zoom:100%;
+            line-height: 3px;
+        }
+    </style>
+</head>
+<body>
+    <ol>
+        <h1><li>Сім'я</li></h1>
+        <h1><li>Здоров'я</li></h1>
+        <h1><li>Саморозвиток</li></h1>
+    </ol>>
+    <hr>
+    <ol>
+        <h2><li>Вода</li></h2>
+        <h2><li>Чай</li></h2>
+        <h2><li>Яблучний сік</li></h2>
+    </ol>
+    </hr>
+    <hr>
+        <p>
+            <h3><li>Щастя-це коли вся сім'я здорова, це коли половинка твоя поруч,це коли посмішка з'являється на твому лиці!</li></h3>
+        </p>
+    </hr>
+    <hr>
+    <p>
+        <h2 style=color:blue><abbr title="Міжгірська загальноосвітня школа I-III ступенів №1">МЗОШ</abbr></h2>
+    </p>
+    </hr>
+</body>
+</html>
