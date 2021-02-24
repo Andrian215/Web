@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+    table,th,td {
+        border: 4px solid black;
+        border-collapse:collapse;
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+    <table width="800" height="200">
+        <tr bgcolor="black" height="5">
+            <td colspan="2"></td>
+        </tr>
+        <tr bgcolor="blue" style="color:yellow">
+            <td><h4>Текст,що відображається</h4></td>
+            <td><h4>Запис у форматі HTML</h4></td>
+        </tr>
+        <tr bgcolor="LightCyan">
+            <td><strong>Заголовок1</strong></td>
+            <td>/H1\Заголовок1//H1\</td>
+        </tr>
+        <tr bgcolor="LightCyan">
+            <td><strong>Заголовок2</strong></td>
+            <td>/H2\Заголовок2//H2\</td>
+        </tr>
+        <tr bgcolor="LightCyan">
+            <td><strong>Заголовок3</strong></td>
+            <td>/H3\Заголовок3//H3\</td>
+        </tr>
+        <tr bgcolor="LightCyan">
+            <td><strong>Заголовок4</strong></td>
+            <td>/H4\Заголовок4//H4\</td>
+        </tr>
+        <tr bgcolor="LightCyan">
+            <td><strong>Заголовок5</strong></td>
+            <td>/H5\Заголовок5//H5\</td>
+        </tr>
+        <tr bgcolor="LightCyan">
+            <td><strong>Заголовок6</strong></td>
+            <td>/H6\Заголовок6//H6\</td>
+        </tr>
+    </table>
+    
+</body>
+</html>
