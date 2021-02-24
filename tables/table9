@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+    table,th,td {
+        border: 3px solid black;
+        border-collapse:collapse; 
+        line-height: 1px; 
+        text-align: center;  
+    }
+</style>
+</head>
+<body>
+    <table width="750" height="180">
+        <caption style="color:blue"><h3 align="left">Понеділок</h3></caption>
+        <tr height="45" bgcolor="MediumSlateBlue">
+            <td><h4>Урок</h4></td>
+            <td><h4>5A</h4></td>
+            <td><h4>5Б</h4></td>
+            <td><h4>5В</h4></td>
+        </tr>
+        <tr bgcolor="CadetBlue">
+            <td>1</td>
+            <td>Українська мова</td>
+            <td>Українська література</td>
+            <td>Історія України</td>
+        </tr>
+        <tr bgcolor="CadetBlue">
+            <td>2</td>
+            <td>Математика</td>
+            <td>Інформатика</td>
+            <td>Англійська мова</td>
+        </tr>
+        <tr bgcolor="CadetBlue">
+            <td>3</td>
+            <td>Історія України</td>
+            <td>Математика</td>
+            <td>Інформатика</td>
+        </tr>
+
+    </table>
+    
+</body>
+</html>
