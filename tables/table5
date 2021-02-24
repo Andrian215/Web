@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+    table,th,td {
+        border: 2px solid black;
+        font-style:normal;
+    }
+</style>
+</head>
+<body>
+    <table width="400" height="200">
+        <tr bgcolor="turquoise">
+            <td align="center">ПРОДУКТИ</td>  
+            <td align="center">ВАРТІСТЬ</td>
+            <td align="center">КІЛЬКІСТЬ</td>          
+        </tr>
+        <tr>
+            <td>ФРУКТИ</td>
+            <td>5</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>РИБА</td>
+            <td>8</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td>М'ЯСО</td>
+            <td>10</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>РАЗОМ</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+    
+</body>
+</html>
