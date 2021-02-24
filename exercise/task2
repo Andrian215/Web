@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="practice">
+    <meta name="keywords" content="group,information,singer,song">
+    <meta name="author" content="Andrian Shyndra"> 
+    <title>Task 1</title>
+    <style>
+    body{
+        zoom:100%;
+    }
+     h1
+    {
+        font-size: 400%;
+    }
+     h2
+    {
+        font-size:350%;
+        color:blue
+    }
+    table tr,td,th {      
+        border-radius: 35px;
+        border:15px solid black;
+        border-collapse: collapse;
+        border-color: blue;
+    }
+    hr {
+        background-color:grey;
+        height:5px;  
+    }
+    h3 {
+        font-size:250%;
+        color:darkred
+    }
+    </style>
+
+</head>
+<body>
+    <caption><h1 align="center">Twenty One Pilots</h1></caption>
+    <p>
+        <p>
+            <table align="center" width="1000">
+                <tr bgcolor="grey" align="center">
+                    <td><a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%B7%D0%B5%D1%84,_%D0%A2%D0%B0%D0%B9%D0%BB%D0%B5%D1%80"><h2>Тайлер Джозеф</h2>></a>
+                    </a></td>
+                    <td width="465"><a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%BD,_%D0%94%D0%B6%D0%BE%D1%88"><h2>Джош Дан</h2></a></td>
+                </tr>
+            </table>
+        </p>
+    </p>
+    <p align="center"><img height="600" src="https://www.pilotonline.com/resizer/BCZI-0woGX-n7jm7T3U_AvtFcCY=/fit-in/800x533/smart/filters:fill(black)/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/SA3DSTDIINFITMPNFFARARYCGE.jpg" alt="21 Pilots"></p>
+    <hr>
+        <p><h3>
+            Twenty One Pilots (також часто стилізують під twenty one pilots або TWENTY ØNE PILØTS) - американський дует з Колумбуса, штат Огайо. Група утворилася в 2009 році і на даний момент складається з Тайлера Джозефа і Джоша Дана.
+
+Колектив самостійно випустив два альбоми: Twenty One Pilots в 2009 і Regional at Best в 2011. У 2012 році музиканти підписують контракт з Fueled by Ramen, в 2013 випускають студійний альбом Vessel, в 2015 - Blurryface, а в 2018 - новий альбом Trench.
+        </h3></p>
+        <h3 align="right" style=color:black>Інформація була взята з сайту -> <a href="https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0">Wikipedia</a></h3>
+    </hr>
+    <hr>
+        <p><h2 align="center" style=color:black>
+            Джозеф Дан      
+        </h2>
+        <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tyler_Joseph_ACL_Music_Festival_2015_%2822116527768%29.jpg/274px-Tyler_Joseph_ACL_Music_Festival_2015_%2822116527768%29.jpg" alt="Tyler Robert Joseph"></p>
+        <h3>
+            Тайлер Роберт Джозеф (англ. Tyler Robert Joseph, 1 грудня 1988, Колумбус, Огайо, США) - американський музикант, репер, автор пісень. Соліст групи Twenty One Pilots.
+            Група була створена в 2009 році, в Огайо. Спочатку ідея про створення групи виходила від Тайлера. У ній також перебували його шкільні друзі Нік Томас і Кріс Саліх.
+
+29 грудня 2009 року був записаний дебютний однойменний альбом і почався тур по Огайо.
+
+У 2011 році Нік і Кріс пішли з групи через щільних графіків. Потім до Тайлеру приєднався Джош Дан, колишній барабанщик групи House of Heroes
+        </h3>
+        </p>
+    </hr>
+    <hr><p><h2 align="center" style=color:black>
+        Джош Дан
+    </h2>
+    <p align="center"><img src="https://pbs.twimg.com/profile_images/818568136471482371/GtUlIUOF.jpg" alt=" Joshua William Dun"></p>
+    <h3>
+        Джошуа Вільям Дан (англ. Joshua William Dun, рід. 18 червня 1988) - американський музикант, барабанщик групи Twenty One Pilots.
+        У 2010 році, Дан прийшов на виступ Twenty One Pilots після прослуховування демо-CD группі. Він був захоплений виступом. Джош зустрів фронтмена групи, Тайлера Джозефа, після виступу, і через кілька днів вони стали проводити час разом.
+
+Пізніше, в 2011 році, Нік Томас і Кріс Саліх покинули групу через навантажених графіків, а Дан покинув роботу в Guitar Center, щоб виступити на одному концерті з Джозефом. Вони зіграли лише одну пісню, коли поліція скасувала шоу. 6 травня Джош Дан офіційно став барабанщиком групи Twenty One Pilots. Дует випустив другий студійний альбом, Regional at Best, 8 липня 2011 року, і підписали контракт з лейблом Fueled by Ramen в квітні 2012 року.
+
+Третій альбом Twenty One Pilots, Vessel, був випущений 8 січня 2013 року. Четвертий альбом, Blurryface, був випущений 19 травня 2015 року. П'ятий альбом Trench був випущений 5 жовтня 2018 року.
+    </h3>
+    </p>      
+    </hr>
+    <hr>
+        <p>
+            <h1 align="center">Stressed Out</h1>
+        </p>
+        <p><h3 align="center" style=color:black><br>
+            I wish I found some better sounds<br>
+            No one's ever heard<br>
+            I wish I had a better voice<br>
+            That sang some better words<br>
+            <br>
+            I wish I found some chords<br>
+            In an order that is new<br>
+            I wish I didn't have to rhyme<br>
+            Every time I sang<br>
+            I was told when I get older<br>
+            All my fears would shrink<br>
+            <br>
+            But now I'm insecure<br>
+            And I care what people think<br>
+            My name's Blurryface and I care what you think<br>
+            My name's Blurryface and I care what you think<br>
+            <br>
+            Wish we could turn back time<br>
+            To the good old days<br>
+            When our momma sang us to sleep<br>
+            But now we're stressed out<br>
+            Wish we could turn back time<br>
+            To the good old days<br>
+            When our momma sang us to sleep<br>
+            But now we're stressed out<br>
+            <br>
+            We're stressed out<br>
+            <br>
+            Sometimes a certain smell will<br>
+            Take me back to when I was young<br>
+            How come I'm never able to identify<br>
+            Where it's coming from?<br>
+            I'd make a candle out of it<br>
+            If I ever found it<br>
+            <br>
+            Try to sell it, never sell out of it<br>
+            I'd probably only sell one<br>
+            It'd be to my brother, cause we have the same nose<br>
+            Same clothes, home grown<br>
+            The stone's throw from a creek we used to roam<br>
+            <br>
+            But it would remind us of when<br>
+            Nothing really mattered<br>
+            Out of student loans and tree house homes<br>
+            We all would take the latter<br>
+            My name's Blurryface and I care what you think<br>
+            My name's Blurryface and I care what you think<br>
+            <br>
+            Wish we could turn back time<br>
+            To the good old days<br>
+            When our momma sang us to sleep<br>
+            But now we're stressed out<br>
+            Wish we could turn back time<br>
+            To the good old days<br>
+            When our momma sang us to sleep<br>
+            But now we're stressed out<br>
+            <br>
+            Used to play pretend<br>
+            Give each other different names<br>
+            We would build a rocket ship and then we'd fly it far away<br>
+            Used to dream of outer space<br>
+            But now they're laughing at our face singing<br>
+            "Wake up, you need to make money", yeah<br>
+            <br>
+            Used to play pretend<br>
+            Give each other different names<br>
+            We would build a rocket ship<br>
+            And then we'd fly it far away<br>
+            Used to dream of outer space<br>
+            But now they're laughing at our face singing<br>
+            "Wake up, you need to make money", yeah<br>
+            <br>
+            Wish we could turn back time<br>
+            To the good old days<br>
+            When our momma sang us to sleep<br>
+            But now we're stressed out<br>
+            Wish we could turn back time<br>
+            To the good old days<br>
+            When our momma sang us to sleep<br>
+            But now we're stressed out<br>
+            <br>
+            We used to play pretend, used to play pretend, money<br>
+            We used to play pretend, wake up you need the money<br>
+            Used to play pretend, used to play pretend, money<br>
+            We used to play pretend, wake up you need the money<br>
+            <br>
+            Used to play pretend<br>
+            Give each other different names<br>
+            We would build a rocket ship<br>
+            And then we'd fly it far away<br>
+            Used to dream of outer space<br>
+            But now they're laughing at our face saying<br>
+            "Wake up, you need to make money", yeah<br>
+            
+        </h3>
+        </p>
+    </hr>
+</body>
+</html>
