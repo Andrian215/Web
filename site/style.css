@@ -1,0 +1,87 @@
+body {
+    zoom:100%;
+}
+table tr,td {
+    border-collapse: collapse;
+    border:2px solid black;
+    border-radius: 10px; 
+    background-image: url(https://static.ukrinform.com/photos/2018_05/thumb_files/630_360_1526921948-1764.jpg);
+    background-size: 300px;
+    margin-right:2000px;
+    padding-right:5400px;
+}
+table th {
+    border-collapse: collapse;
+    border:2px solid black;
+    border-radius: 10px; 
+    background-size: 300px;
+    height:20px;
+    background-color: rgb(199, 225, 230);
+    padding-right:5400px;
+}
+h1 {
+    font-size: 300%;
+}
+ul {
+    margin: -18px;
+}
+h2 {
+    font-size:210%;
+}
+.forul {
+    text-align: left;
+    margin:18px;
+    font-size: 100%;
+}
+.line1 {
+    position:fixed;
+    border:1px solid black;
+    border-radius: 10px;
+    background-image: url(https://rubryka.com/wp-content/uploads/2020/06/morozyvo-1280x720.jpg);
+    height: 5000px;
+    top:10px;
+    width: 300px;
+    left:1px;
+    padding-left:90px;
+
+}
+.line2 {
+    position:fixed;
+    border:1px solid black;
+    border-radius: 10px;
+    background-image: url(https://rubryka.com/wp-content/uploads/2020/06/morozyvo-1280x720.jpg);
+    height: 5000px;
+    top:10px;
+    width: 300px;
+    right:1px;
+    background-position-x: 300px;
+}
+.table1 {
+    margin-left: 295px;
+    margin:auto;
+    width: 7000px;
+}
+.table2 {
+    margin-left: 400px;
+    margin-top:-129px;
+    margin:auto;
+    width:7000px;
+}
+.image {
+    text-align: center;
+}
+.for1ice {
+    margin-left:-400px;
+}
+.for2ice {
+    margin-left:50px;
+    margin-top:-71px;
+}
+.for3ice {
+    margin-left:500px;
+    margin-top:-71px;
+}
+hr {
+    height:7px;
+    background-color: grey;
+}
