@@ -1,0 +1,12 @@
+.edge {
+    color:red;
+}
+.title {
+    color:yellow;
+}
+.middle {
+    color:rgb(31, 112, 218);
+}
+#MyTitle4 {
+    color:greenyellow;
+}
