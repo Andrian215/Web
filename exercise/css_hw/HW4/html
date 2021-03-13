@@ -1,0 +1,379 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" href="style.css">
+  <title>Document</title>
+</head>
+ <body>
+     <div>
+         <table class="tablet">
+             <tr class="green">
+                 <td>Название</td>
+                 <td>Цвет</td>
+                 <td>Твердость по Моосу</td>
+             </tr>
+             <tr class="pink">
+                <td>Алмаз</td>
+                <td>Белый</td>
+                <td>10</td>
+            </tr>
+            <tr>
+                <td>Рубин</td>
+                <td>Красный</td>
+                <td>9</td>
+            </tr>
+            <tr class="pink">
+                <td>Аметист</td>
+                <td>Голубой</td>
+                <td>7</td>
+            </tr>
+            <tr>
+                <td>Изумруд</td>
+                <td>Зеленый</td>
+                <td>8</td>
+            </tr>
+            <tr class="pink">
+                <td>Сапфир</td>
+                <td>Голубой</td>
+                <td>9</td>
+            </tr>
+         </table>
+         <h1></h1>
+         <table class="table1">
+             <caption><strong>Правка</strong></caption>
+             <tr>
+                 <td class="tablet"><a href="$">Отменить</a></td>
+             </tr>
+             <tr>
+                 <td class="tablet"><a href="$">Вырезать</a></td>
+             </tr>
+             <tr>
+                 <td class="tablet"><a href="$">Копировать</a></td>
+             </tr>
+             <tr>
+                 <td class="tablet"><a href="$">Вставить</a></td>
+             </tr>
+         </table>
+         <table class="table2">
+            <caption><strong>Начертание</strong></caption>
+             <tr>
+                 <td class="tablet"><a href="$">Жирное</a></td>
+             </tr>
+             <tr>
+                <td class="tablet"><a href="$">Курсивное</a></td>
+            </tr>
+            <tr>
+                <td class="tablet"><a href="$">Подчеркнутое</a></td>
+            </tr>
+         </table>
+         <table class='table3'>
+            <caption><strong>Размер</strong></caption>
+             <tr>
+                 <td class="tablet"><a href="$">Маленький</a></td>
+             </tr>
+             <tr>
+                <td class="tablet"><a href="$">Нормальный</a></td>
+            </tr>
+            <tr>
+                <td class="tablet"><a href="$">Средний</a></td>
+            </tr>
+            <tr>
+                <td class="tablet"><a href="$">Большой</a></td>
+            </tr>
+         </table>
+         <h1></h1>
+         <table class="table">
+             <tr>
+                 <td class="td">A</td>
+                 <td class="tablet">B</td>
+                 <td class="tablet">C</td>
+                 <td class="tablet">D</td>
+                 <td class="tablet">E</td>
+                 <td class="tablet">F</td>
+             </tr>
+         </table>
+         <table class="gtable">
+             <tr class="brown">
+                 <td class="tdd">п/п</td>
+                 <td>месяц</td>
+                 <td>д1</td>
+                 <td>д2</td>
+                 <td>д3</td>
+                 <td>д4</td>
+             </tr>
+             <tr class="blue">
+                 <td class="right">1</td>
+                 <td>январь</td>
+                 <td class="right">12</td>
+                 <td></td>
+                 <td></td>
+                 <td></td>
+             </tr>
+             <tr class="bodily">
+                <td class="right">2</td>
+                <td>ферваль</td>
+                <td></td>
+                <td></td>
+                <td>aa</td>
+                <td></td>
+             </tr>
+             <tr class="blue">
+                <td class="right">3</td>
+                <td>март</td>
+                <td class="right">345</td>
+                <td></td>
+                <td class="right">6952</td>
+                <td></td>
+            </tr>
+            <tr class="bodily">
+                <td class="right">4</td>
+                <td>апрель</td>
+                <td class="right">678</td>
+                <td></td>
+                <td>--в</td>
+                <td></td>
+            </tr>
+            <tr class="blue">
+                <td class="right">5</td>
+                <td>май</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr class="bodily">
+                <td class="right">6</td>
+                <td>июнь</td>
+                <td class="right">1011</td>
+                <td class="right">1011</td>
+                <td class="right">1011</td>
+                <td class="right">1011</td>
+            </tr>
+            <tr class="blue">
+                <td class="right">7</td>
+                <td>июль</td>
+                <td class="right">1344</td>
+                <td class="right">1344</td>
+                <td class="right">1344</td>
+                <td class="right">1344</td>
+            </tr>
+            <tr class="bodily">
+                <td class="right">8</td>
+                <td>август</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr class="blue">
+                <td class="right">9</td>
+                <td>сентябрь</td>
+                <td class="right">1677</td>
+                <td class="right">43</td>
+                <td class="right">883</td>
+                <td class="right">876</td>
+            </tr>
+            <tr class="bodily">
+                <td class="right">10</td>
+                <td>октябрь</td>
+                <td class="right">2010</td>
+                <td></td>
+                <td>===</td>
+                <td></td>
+            </tr>
+            <tr class="blue">
+                <td class="right">11</td>
+                <td>ноябрь</td>
+                <td></td>
+                <td class="right">786</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr class="bodily">
+                <td class="right">12</td>
+                <td>декабрь</td>
+                <td class="right">2343</td>
+                <td></td>
+                <td></td>
+                <td class="right">43</td>
+            </tr>
+            <tr class="blue">
+                <td class="right">13</td>
+                <td>январь</td>
+                <td class="right">2676</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+         </table>
+         <h1></h1>
+         <table class="t">
+             <tr>
+                 <td class="green"></td>
+                 <td></td>
+                 <td class="green"></td>
+                 <td></td>
+                 <td class="green"></td>
+                 <td></td>
+                 <td class="green"></td>
+                 <td></td>
+                 <td class="green"></td>
+             </tr>
+             <tr>
+                <td></td>
+                <td class="green"></td>
+                <td></td>
+                <td class="green"></td>
+                <td></td>
+                <td class="green"></td>
+                <td></td>
+                <td class="green"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="green"></td>
+                <td></td>
+                <td class="green"></td>
+                <td></td>
+                <td class="ggreen"></td>
+                <td></td>
+                <td class="green"></td>
+                <td></td>
+                <td class="green"></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td class="green"></td>
+                <td></td>
+                <td class="green"></td>
+                <td></td>
+                <td class="green"></td>
+                <td></td>
+                <td class="green"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="green"></td>
+                <td></td>
+                <td class="green"></td>
+                <td></td>
+                <td class="green"></td>
+                <td></td>
+                <td class="green"></td>
+                <td></td>
+                <td class="green"></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td class="green"></td>
+                <td></td>
+                <td class="green"></td>
+                <td></td>
+                <td class="green"></td>
+                <td></td>
+                <td class="green"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="green"></td>
+                <td></td>
+                <td class="green"></td>
+                <td></td>
+                <td class="green"></td>
+                <td></td>
+                <td class="green"></td>
+                <td></td>
+                <td class="green"></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td class="green"></td>
+                <td></td>
+                <td class="green"></td>
+                <td></td>
+                <td class="green" ></td>
+                <td></td>
+                <td class="green"></td>
+                <td></td>
+            </tr>
+         </table>
+         <h1></h1>
+         <table class="tablee">
+             <tr>
+                 <td class="bred">124</td>
+                 <td class="bviolet">202</td>
+                 <td class="byellow">1200</td>
+                 <td class="bgreen">209</td>
+                 <td class="bred">385</td>
+                 <td class="bviolet">289</td>
+                 <td class="byellow">12.4</td>
+                 <td class="bgreen">22.8</td>
+             </tr>
+             <tr>
+                <td class="bred">124</td>
+                <td class="bviolet">202</td>
+                <td class="byellow">1200</td>
+                <td class="bgreen">209</td>
+                <td class="bred">385</td>
+                <td class="bviolet">289</td>
+                <td class="byellow">12.4</td>
+                <td class="bgreen">22.8</td>
+            </tr>
+            <tr>
+                <td class="bred">124</td>
+                <td class="bviolet">202</td>
+                <td class="byellow">1200</td>
+                <td class="bgreen">209</td>
+                <td class="bred">385</td>
+                <td class="bviolet">289</td>
+                <td class="byellow">12.4</td>
+                <td class="bgreen">22.8</td>
+            </tr>
+            <tr>
+                <td class="bred">124</td>
+                <td class="bviolet">202</td>
+                <td class="byellow">1200</td>
+                <td class="bgreen">209</td>
+                <td class="bred">385</td>
+                <td class="bviolet">289</td>
+                <td class="byellow">12.4</td>
+                <td class="bgreen">22.8</td>
+            </tr>
+            <tr>
+                <td class="bred">124</td>
+                <td class="bviolet">202</td>
+                <td class="byellow">1200</td>
+                <td class="bgreen">209</td>
+                <td class="bred">385</td>
+                <td class="bviolet">289</td>
+                <td class="byellow">12.4</td>
+                <td class="bgreen">22.8</td>
+            </tr>
+            <tr>
+                <td class="bred">124</td>
+                <td class="bviolet">202</td>
+                <td class="byellow">1200</td>
+                <td class="bgreen">209</td>
+                <td class="bred">385</td>
+                <td class="bviolet">289</td>
+                <td class="byellow">12.4</td>
+                <td class="bgreen">22.8</td>
+            </tr>
+         </table>
+         <p>Gggggggggggggggggggggggggggggggg</p>
+         <p>0000000000000000000000000000</p>
+         <p>Ssssssssssssssssssssssssssssssssssssssssssss</p>
+         <p>000000000000000000000000000000000</p>
+         <p>Kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk</p>
+         <p>0000000000000000000000000000000000000</p>
+         <p>Mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm</p>
+         <p>000000000000000000000000000000000000000000</p>
+         <h1></h1>
+         <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mattis ultrices lectus placerat mollis. Nulla vestibulum eros metus, id faucibus est imperdiet non. Maecenas nisi sapien, egestas sed ipsum eu, volutpat efficitur massa. Interdum et malesuada fames ac ante ipsum primis in fauci.</h4>
+         <h4 class="greent">Cras ipsum lacus, viverra quis pulvinar ullamcorper, dignissim consequat libero. Aenean sit amet arcu tincidunt elit accumsan rutrum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis condimentum vel augue nec luctus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras elit diam, condimentum non volutpat eget, dictum non diam. In lacinia nulla nec magna congue, eu rutrum lectus eleifend. Donec iaculis accumsan eros a varius. Donec finibus diam a mauris eleifend mattis non vel leo. Vivamus sit amet urna ut orci fringilla pulvinar ornare et lacus. Nulla in ligula turpis.</h4>
+         <h4>Ut eleifend sollicitudin pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet augue libero. Praesent nec blandit ante. Nulla ut nibh nisl. Integer scelerisque ac nibh eu interdum. In hac habitasse platea dictumst. Curabitur eget est in risus aliquet porttitor vel ac risus. Etiam condimentum augue non urna vestibulum consectetur. Donec id urna enim.</h4>
+         <h4>Ut eleifend elit id sem congue iaculis. Fusce pretium enim eget porta mattis. Fusce pharetra risus massa, sed eleifend magna consequat vitae. Nam lobortis condimentum ex, ut sagittis nisl varius et. Proin volutpat tortor id dui ullamcorper, ut pellentesque dolor consectetur. Pellentesque ut velit et eros viverra pretium. Quisque imperdiet felis id diam tristique iaculis. Nam gravida odio quam, ut tincidunt lorem blandit a. Quisque gravida lorem vel leo mattis, et consectetur turpis condimentum. Aliquam aliquet metus erat, a auctor sem commodo quis. Donec malesuada neque sit amet facilisis lacinia. Morbi congue elit nec purus ultrices, sed lobortis ex cursus. Proin convallis arcu viverra, tincidunt enim sit amet, accumsan diam. Aenean vitae ex mi. Aenean eu tellus dignissim, facilisis dui et, euismod dui. Pellentesque malesuada fermentum purus, quis vulputate libero sodales nec.</h4>
+     </div>
+ </body>
+</html>
