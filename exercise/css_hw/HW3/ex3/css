@@ -1,0 +1,12 @@
+.green {
+    color:rgb(7, 70, 7);
+}
+.red {
+    color:red;
+}
+.ok,.last {
+    color:brown
+}
+#red,#blue {
+    color:yellow;
+}
