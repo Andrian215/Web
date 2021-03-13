@@ -1,0 +1,93 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" href="style.css">
+  <title>Document</title>
+</head>
+ <body>
+     <ul class="ml">
+         <li>aaaaaaa</li>
+         <li>bbbbbbb</li>
+         <li>ccccccc</li>
+     </ul>
+     <ol>
+        <li>aaaaaaa</li>
+        <li>bbbbbbb</li>
+        <li>ccccccc</li>
+     </ol>
+     <ul class="mll">
+        <li>aaaaaaa</li>
+        <li>bbbbbbb</li>
+        <li>ccccccc</li>
+    </ul>
+    <ol>
+        <li>aaaaaaa</li>
+        <li>bbbbbbb</li>
+        <li>ccccccc</li>
+     </ol>
+     <hr>
+     <ul class="mlll">
+         <li class="mll">aaaaaaa</li>
+         <li>bbbbbbb</li>
+         <li>ccccccc</li>
+     </ul>
+     <ol start="4">
+        <li>aaaaaaa</li>
+        <li>bbbbbbb</li>
+        <li>ccccccc</li>
+     </ol>
+     <ul>
+        <li class="mll">aaaaaaa</li>
+        <li>bbbbbbb</li>
+        <li>ccccccc</li>
+    </ul>
+    <ol start="4">
+        <li>aaaaaaa</li>
+        <li>bbbbbbb</li>
+        <li>ccccccc</li>
+     </ol>
+     <hr>
+     <div>
+        <h1 > Title </h1>
+        <p id="Frirst" class="edge">
+        Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello.
+        </p>
+        <h1 > Title </h1>
+        <section>
+        
+        <p id="MyTitle2" class="middle"> From From From From From From From From From From From From From From From From From From From From From From From From From From From From From From From From 
+        </p>
+        </section>
+        <h1 > Title </h1>
+        <p class="red">
+        From From From From From From From From From From From From From From From From From From From From From From From From From From From From From From From From
+        </p> 
+        <section>
+        <p>
+        <b> Text Text Text Text Text Text </b>
+        <b> Text Text Text Text Text Text </b>
+        <b> Text Text Text Text Text Text </b>
+        </p>
+        </section>
+        </div>
+        <p >
+         From From From From From From From From From From From From From From From From From From From From From From From From From From From From From From From From 
+        </p>
+        
+        
+        
+        <h1>1111111111111</h1>
+        <p> World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. 
+        </p>
+        <p id="MyTitle5" class="edge"> World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. 
+        </p>
+        ---------------------------------
+        <h1>1111111111111</h1>
+        <p id="MyTitle5" class="edge"> World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. 
+        </p>
+        <p> World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. World. 
+        </p>
+        
+ </body>
+</html>
