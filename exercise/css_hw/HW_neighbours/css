@@ -1,0 +1,29 @@
+.ml {
+    margin-left: 30px;
+    color:red;
+}
+.mlll {
+    margin-left: 30px;
+}
+.mll {
+    color:red;
+}
+hr {
+    height: 2px;
+    color:black;
+}
+#Frirst {
+    color:red;
+}
+b {
+    color:blue;
+}
+#MyTitle2 {
+    color:blue;
+}
+.red {
+    color:red;
+}
+#MyTitle5 {
+    color:blue;
+}
