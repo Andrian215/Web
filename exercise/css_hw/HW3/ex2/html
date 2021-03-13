@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <table>
+            <tr class="w">
+                <td class="td">дні</td>
+                <td rowspan="2">Понеділок</td>
+                <td rowspan="2">Вівторок</td>
+                <td rowspan="2">Середа</td>
+                <td rowspan="2">Четвер</td>
+                <td rowspan="2">П'ятниця</td>
+                <td rowspan="2">Субота</td>
+            </tr>
+            <tr>
+                <td class="white">год.</td>
+            </tr>
+            <tr>
+
+                <td class="white">##</td>
+                <td></td>
+                <td class="red"><strong>Акваеробіка</strong><br>(сім.басейн), <strong>Ольга</strong><p>сезонна група</p></td>
+                <td></td>
+                <td class="red"><strong>Акваеробіка</strong><br>(сім.басейн), <strong>Ольга</strong><p>сезонна група</p></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="white">##</td>
+                <td class="red"><strong>Акваеробіка</strong><br>(сім.басейн), <strong>Ольга</strong><p>&nbsp &nbsp</p></td>
+                <td></td>
+                <td class="red"><strong>Акваеробіка</strong><br>(сім.басейн), <strong>Ольга</strong><p>&nbsp &nbsp</p></td>
+                <td></td>
+                <td class="red"><strong>Акваеробіка</strong><br>(сім.басейн), <strong>Ольга</strong><p>&nbsp &nbsp</p></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="white">##</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="grey"><strong>Акваеробіка</strong><br>(сім.басейн), <strong>Ольга</strong><p>&nbsp &nbsp</p></td>
+            </tr>
+            <tr>
+                <td class="white">##</td>
+                <td class="grey"><strong>Акваеробіка</strong><br>(сім.басейн), <strong>Ольга</strong><p>&nbsp &nbsp</p></td>
+                <td></td>
+                <td class="grey"><strong>Акваеробіка</strong><br>(сім.басейн), <strong>Ольга</strong><p></p></td>
+                <td></td>
+                <td class="grey"><strong>Акваеробіка</strong><br>(сім.басейн), <strong>Ольга</strong><p>&nbsp &nbsp</p></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="white">##</td>
+                <td class="grey"><strong>Акваеробіка</strong><br>(сім.басейн), <strong>Ольга</strong><p>&nbsp &nbsp</p></td>
+                <td class="grey"><strong>Акваеробіка</strong><br>(сім.басейн), <strong>Ольга</strong><p>&nbsp &nbsp</p></td>
+                <td class="grey"><strong>Акваеробіка</strong><br>(сім.басейн), <strong>Ольга</strong><p>&nbsp &nbsp</p></td>
+                <td class="grey"><strong>Акваеробіка</strong><br>(сім.басейн), <strong>Ольга</strong><p>&nbsp &nbsp</p></td>
+                <td class="grey"><strong>Акваеробіка</strong><br>(сім.басейн), <strong>Ольга</strong><p>&nbsp &nbsp</p></td>
+                <td></td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
