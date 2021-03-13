@@ -1,0 +1,114 @@
+.tablet {
+    border:2px solid black;
+}
+body {
+    zoom:100%;
+}
+caption {
+    background-color:rgb(57, 180, 57);
+}
+.green {
+    background-color:green;
+}
+.pink {
+    background-color:pink;
+}
+.table1 {
+    border:8px solid rgb(57, 180, 57);
+    border-collapse: collapse;
+}
+.table2 {
+    border:8px solid rgb(57, 180, 57);
+    border-collapse: collapse;
+    margin-left:95px;
+    margin-top: -130px;
+}
+.table3 {
+    border:8px solid rgb(57, 180, 57);
+    border-collapse: collapse;
+    margin-left:205px;
+    margin-top: -106px;
+}
+.table {
+    border:1px solid black;
+    border-collapse: collapse;
+    width:500px;
+    text-align: center;
+    background-color: rgb(247, 247, 242);
+    table-layout: fixed;
+}
+.td {
+    border:2px solid black;
+    width:30px;
+}
+.tdd {
+    width: 30px;
+}
+.gtable {
+    width:500px;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+.center {
+    text-align: center;
+}
+.right {
+    text-align: right;
+}
+.brown {
+    background-color: rgb(160, 102, 27);
+}
+.blue {
+    background-color: cadetblue;
+}
+.bodily {
+    background-color: rgb(226, 193, 130);
+}
+.t {
+    border-right:3px solid black;
+    border-collapse: collapse;
+    width: 600px;
+    height: 500px;
+    table-layout: fixed;
+}
+.ggreen {
+    border: 3px solid rgb(172, 34, 57);
+    background-color: green;
+}
+.tablee {
+    border:1px solid black;
+    border-collapse: collapse;
+    width:500px;
+    table-layout: fixed;
+}
+.bred {
+    border:2px solid black;
+    background:linear-gradient(to right,red 15%,0%,white)
+}
+.bviolet {
+    border:2px solid black;
+    background:linear-gradient(to right,violet 15%,0%,white)
+}
+.byellow {
+    border:2px solid black;
+    background:linear-gradient(to right,yellow 15%,0%,white)
+}
+.bgreen {
+    border:2px solid black;
+    background:linear-gradient(to right,green 15%,0%,white)
+}
+.left {
+    text-align: left;
+}
+p {
+    line-height: 2px;
+}
+p:nth-child(2n) {
+    color:red;
+}
+h4::first-letter {
+    color:red;
+}
+.greent {
+    color:green;
+}
