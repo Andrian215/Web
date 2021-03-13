@@ -1,0 +1,21 @@
+table,td {
+    width:350px;
+}
+h1 {
+    margin-left: -70px;
+    color:blue;
+}
+h3 {
+    color:brown;
+}
+p {
+    white-space: nowrap;
+    line-height: 5px;
+}
+.td {
+    padding-left:90px;
+}
+p::before {
+    color:red;
+    content: "#####";
+}
