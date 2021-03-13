@@ -1,0 +1,61 @@
+.div1 {
+    border:5px solid black;
+    height:1000px;
+    width:900px;
+    margin-left:170px;
+}
+.div2 {
+    height:300px;
+    width: 902px;
+    margin-left: -1px;
+    margin-top: -40px;
+    background-color: red;
+}
+.div3 {
+    border: 3px solid black;
+    height:450px;
+    width: 900px;
+    background-color: green;
+    margin-left:-2px;
+    text-align: center;
+}
+.div4 {
+    height: 260px;
+    width: 902px;
+    margin-left: -1px;
+    margin-top: -410px;
+    background-color: purple;
+    position: fixed;
+    text-align: center;
+}
+.div5 {
+    height:1010px;
+    width: 180px;
+    margin-left: -10px;
+    margin-top:-1010px;
+    background-image: url(https://img.freepik.com/free-photo/3d-abstract-background-with-network-connections-low-poly-plexus-design_1048-11867.jpg?size=626&ext=jpg);
+}
+.div6 {
+    height: 1010px;
+    width: 180px;
+    margin-left:1080px;
+    margin-top:-1010px;
+    background-image: url(https://img.freepik.com/free-photo/3d-abstract-background-with-network-connections-low-poly-plexus-design_1048-11867.jpg?size=626&ext=jpg);
+    background-position-x: 175px;
+}
+h1 {
+    font-size: 700%;
+}
+h2 {
+    font-size: 300%;
+}
+nav {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color:black;
+}
+body {
+    zoom: 125%;
+}
