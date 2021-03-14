@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>BB</title>
+</head>
+<body>
+    <div class="div">
+        <img class="img" src="https://logoza.ru/img/rock.png">
+        <nav>
+        <a href="$"><h2 class="h21">About</h2></a>
+        <a href="$"><h2 class="h22">Blog</h2></a>
+        <a href="$"><h2 class="h23">Resources</h2></a>
+        <a href="$"><h2 class="h24">Contact</h2></a>
+        <div class="divv"><a href="$"><h2 class="h">Log in</h2></a></div>
+        </nav>
+    </div>
+    <header>
+    <h1 class="h1">Beatiful Backgrounds</h1>
+    </header>
+    <div class="divV"><h2 class="hh2">View all</h2></div>
+    <h2 class="s">▼</h2>
+    <main>
+    <div class="d">
+    <img class="first "src="https://img1.liveinternet.ru/images/attach/c/2//70/150/70150627_1296727808_653901024x600.jpg">
+    <img class="second "src="https://klike.net/uploads/posts/2019-06/1561182999_17.jpg">
+    <img class="third "src="https://krot.info/uploads/posts/2020-01/1580228513_1-1.jpg">
+    <img class="fourth "src="https://st4.depositphotos.com/13349494/22978/i/600/depositphotos_229787362-stock-photo-abstract-swirls-grey-paint-black.jpg">
+    <img class="fiveth "src="https://kartinkinaden.ru/uploads/posts/2020-10/1603414367_28-p-krasivii-chernii-fon-dlya-teksta-35.jpg">
+    <img class="sixth "src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUtWP269N_c4_Clney2KtPk0CmRzLdrKvO2g&usqp=CAU">
+    <img class="seventh "src="https://krot.info/uploads/posts/2020-01/1580232191_2-p-temnie-zadnie-foni-7.jpg">
+    </div>
+    </main>
+</html>
