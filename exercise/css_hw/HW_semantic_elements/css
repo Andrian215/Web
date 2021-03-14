@@ -1,0 +1,137 @@
+body {
+    background:url(https://lh3.googleusercontent.com/proxy/6HQD2s19z_oJ_OgzEMiAbNIfH0eJ1cMN5FW0HU0jDutkBfPoKgI2hA_F_TxW1jL8BNw86mKejA2a);
+    background-size: 100%;
+    background-attachment: fixed; 
+}
+.div {
+    width:800px;
+    height:100px;
+    background-image: radial-gradient(grey,black 90%);
+    margin:auto;
+    border-radius: 50px;
+    
+}
+.img {
+    width:50px;
+    height:50px;
+    margin:25px;
+    margin-left: 35px;
+}
+.h21 {
+    margin-left:150px;
+    margin-top:-70px;
+}
+.h22 {
+    margin-left:250px;
+    margin-top:-48px;
+}
+.h23 {
+    margin-left:340px;
+    margin-top:-48px;
+}
+.h24 {
+    margin-left:480px;
+    margin-top:-48px;
+}
+a {
+    color:black;
+    text-decoration: none;
+}
+a:hover {
+    color:grey;
+}
+.divv {
+    border:3px solid grey;
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+    margin-left:600px;
+    margin-top:-55px;
+    text-align:center;
+}
+.divv:hover {
+    background-color: rgb(29, 28, 28);
+}
+.h {
+    margin-top: 7px;
+}
+.h1 {
+    font-size: 700%;
+    text-align: center;
+    color:grey;
+    font-family:cursive;
+}
+h1 {
+    text-align: center;
+    white-space: nowrap;
+}
+.divV {
+    width: 300px;
+    height: 70px;
+    border:7px solid rgb(43, 3, 3);
+    border-radius: 50px;
+    margin:auto;
+    text-align: center;
+    font-size: 200%;
+    color:grey;
+}
+.hh2 {
+    margin-top:5px;
+}
+.s {
+    margin:auto;
+    text-align: center;
+    color:grey;
+    font-size: 300%;
+}
+.first {
+    border:5px solid grey;
+    border-radius: 200px;
+
+}
+.second {
+    border:5px solid grey;
+    border-radius: 200px;
+    height:410px;
+    width:700px;
+    margin-left:790px;
+    margin-top:0px;
+}
+.third {
+    border:5px solid grey;
+    border-radius: 200px;
+    height:410px;
+    width:700px;
+}
+.fourth {
+    border:5px solid grey;
+    border-radius: 200px;
+    height:410px;
+    width:700px;
+    margin-left:790px;
+}
+.fiveth {
+    border:5px solid grey;
+    border-radius: 200px;
+    height:410px;
+    width:700px;
+}
+.sixth {
+    border:5px solid grey;
+    border-radius: 200px;
+    height:410px;
+    width:700px;
+    margin-left:790px;
+}
+.seventh {
+    border:5px solid grey;
+    border-radius: 200px;
+    height:410px;
+    width:700px;
+}
+.d {
+    margin:auto;
+    height:3000px;
+    width:1500px;
+    margin-top:250px;
+}
